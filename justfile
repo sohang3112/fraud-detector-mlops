@@ -13,8 +13,8 @@ set dotenv-load := true
 
 # VARIABLES
 
-PACKAGE := "fraud_detector_mlops"
-REPOSITORY := "fraud-detector-mlops"
+PACKAGE := "stock_prediction_mlops"
+REPOSITORY := "stock-prediction-mlops"
 SOURCES := "src"
 TESTS := "tests"
 

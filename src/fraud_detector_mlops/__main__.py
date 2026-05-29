@@ -2,7 +2,7 @@
 
 # %% IMPORTS
 
-from fraud_detector_mlops import scripts
+from stock_prediction_mlops import scripts
 
 # %% MAIN
 

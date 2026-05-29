@@ -1,12 +1,12 @@
-# Fraud Detector MLOps
+# Stock Prediction MLOps
 
-[![check.yml](https://github.com/sohang3112/fraud-detector-mlops/actions/workflows/check.yml/badge.svg)](https://github.com/sohang3112/fraud-detector-mlops/actions/workflows/check.yml)
-[![publish.yml](https://github.com/sohang3112/fraud-detector-mlops/actions/workflows/publish.yml/badge.svg)](https://github.com/sohang3112/fraud-detector-mlops/actions/workflows/publish.yml)
-[![Documentation](https://img.shields.io/badge/documentation-available-brightgreen.svg)](https://sohang3112.github.io/fraud-detector-mlops/)
-[![License](https://img.shields.io/github/license/sohang3112/fraud-detector-mlops)](https://github.com/sohang3112/fraud-detector-mlops/blob/main/LICENCE.txt)
-[![Release](https://img.shields.io/github/v/release/sohang3112/fraud-detector-mlops)](https://github.com/sohang3112/fraud-detector-mlops/releases)
+[![check.yml](https://github.com/sohang3112/stock-prediction-mlops/actions/workflows/check.yml/badge.svg)](https://github.com/sohang3112/stock-prediction-mlops/actions/workflows/check.yml)
+[![publish.yml](https://github.com/sohang3112/stock-prediction-mlops/actions/workflows/publish.yml/badge.svg)](https://github.com/sohang3112/stock-prediction-mlops/actions/workflows/publish.yml)
+[![Documentation](https://img.shields.io/badge/documentation-available-brightgreen.svg)](https://sohang3112.github.io/stock-prediction-mlops/)
+[![License](https://img.shields.io/github/license/sohang3112/stock-prediction-mlops)](https://github.com/sohang3112/stock-prediction-mlops/blob/main/LICENCE.txt)
+[![Release](https://img.shields.io/github/v/release/sohang3112/stock-prediction-mlops)](https://github.com/sohang3112/stock-prediction-mlops/releases)
 
-Fraud Detector MLOps group project for IIT MTech (AI). Made by group members: Sohang, Ayush, Anish, Gargi, Ambeth..
+Stock Prediction MLOps group project for IIT MTech (AI). Made by group members: Sohang, Ayush, Anish, Gargi, Ambeth..
 
 ## Installation
 
@@ -19,7 +19,7 @@ uv sync
 ## Usage
 
 ```bash
-uv run fraud-detector-mlops
+uv run stock-prediction-mlops
 ```
 
 ## MLOps Template Used

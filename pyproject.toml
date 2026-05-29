@@ -4,9 +4,9 @@
 # PROJECT
 
 [project]
-name = "fraud-detector-mlops"
+name = "stock-prediction-mlops"
 version = "0.1.0"
-description = "Fraud Detector MLOps group project for IIT MTech (AI). Made by group members: Sohang, Ayush, Anish, Gargi, Ambeth."
+description = "Stock Prediction MLOps group project for IIT MTech (AI). Made by group members: Sohang, Ayush, Anish, Gargi, Ambeth."
 authors = [{ name = "sohang3112" }]
 readme = "README.md"
 license = { file = "LICENSE.txt" }
@@ -20,16 +20,16 @@ dependencies = [
 # LINKS
 
 [project.urls]
-Homepage = "https://github.com/sohang3112/fraud-detector-mlops"
-Documentation = "https://sohang3112.github.io/fraud-detector-mlops/"
-Repository = "https://github.com/sohang3112/fraud-detector-mlopse"
-"Bug Tracker" = "https://github.com/sohang3112/fraud-detector-mlops/issues"
-Changelog = "https://github.com/sohang3112/fraud-detector-mlops/blob/main/CHANGELOG.md"
+Homepage = "https://github.com/sohang3112/stock-prediction-mlops"
+Documentation = "https://sohang3112.github.io/stock-prediction-mlops/"
+Repository = "https://github.com/sohang3112/stock-prediction-mlopse"
+"Bug Tracker" = "https://github.com/sohang3112/stock-prediction-mlops/issues"
+Changelog = "https://github.com/sohang3112/stock-prediction-mlops/blob/main/CHANGELOG.md"
 
 # SCRIPTS
 
 [project.scripts]
-fraud-detector-mlops = "fraud_detector_mlops.scripts:main"
+stock-prediction-mlops = "stock_prediction_mlops.scripts:main"
 
 # DEPENDENCIES
 
